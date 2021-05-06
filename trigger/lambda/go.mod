@@ -1,4 +1,4 @@
-module github.com/project-flogo/aws-contrib/trigger/lambda
+module github.com/aheissenberger/aws-contrib/trigger/lambda
 
 go 1.12
 
